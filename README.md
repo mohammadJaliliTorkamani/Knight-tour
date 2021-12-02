@@ -22,7 +22,7 @@ git clone  https://github.com/mohammadJaliliTorkamani/Knight-tour.git
 2. Make the console full screen to see an arranged result.  
 3. Enter the knight's position in the chessboard (e.g., 4 5) and press enter in the console.
 
-Then the chessboard will be displayed in the console, and you can press enter to trace the sequence,
+Then the chessboard will be displayed in the console, and you can press enter to trace the sequence.
 
 <br/>
 
