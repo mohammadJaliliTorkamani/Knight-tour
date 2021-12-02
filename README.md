@@ -27,4 +27,6 @@ Then the chessboard will be displayed in the console, and you can press enter to
 <br/>
 
 ## Output
-
+|  ![screen 1](https://github.com/mohammadJaliliTorkamani/Knight-tour/blob/master/output/screen%201.png "screen 1") |  ![screen 2](https://github.com/mohammadJaliliTorkamani/Knight-tour/blob/master/output/screen%201.png "screen 2") |
+| ------------ | ------------ |
+|  ![screen 3](https://github.com/mohammadJaliliTorkamani/Knight-tour/blob/master/output/screen%201.png "screen 3") | ![screen 4](https://github.com/mohammadJaliliTorkamani/Knight-tour/blob/master/output/screen%201.png "screen 4")  |
