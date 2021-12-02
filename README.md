@@ -13,12 +13,12 @@ git clone  https://github.com/mohammadJaliliTorkamani/Knight-tour.git
 ```
 
 2. Open the project in `QT Creator` IDE
-3. Press CTRL+Shift+B to build (compile) the program
+3. Press `CTRL+Shift+B` to build (compile) the program
 
 <br/>
 
 ## Run
-1. Run the program by pressing inside QT Creator IDE by pressing CTRL+R.
+1. Run the program by pressing inside QT Creator IDE by pressing `CTRL+R`.
 2. Make the console full screen to see an arranged result.  
 3. Enter the knight's position in the chessboard (e.g., 4 5) and press enter in the console.
 
